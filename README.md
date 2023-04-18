@@ -105,12 +105,12 @@
  > 
 ![blue-magenta pallete](https://64.media.tumblr.com/e2ecf091b50b3aa8d425e6dd80226676/a19699669822fba3-be/s400x600/1982b96d9f51daaa66d54c5da120344143de27b4.pnj)
 
- >>⇡ Expanded colour pallete from tints, ⇡  
- >>⇡ tones, and shades of the base colours. ⇡
- >>
+ >⇡ Expanded colour pallete from tints, ⇡  
+ >⇡ tones, and shades of the base colours. ⇡
+ >
 ![](https://64.media.tumblr.com/127f48b3963f325943a6bd75d90ab7a6/a19699669822fba3-3a/s400x600/5e99ab248b08fc233c6993f40da7babce5353a43.pnj)
- >>
- >>⇡ Blue gradients from main swatches ⇡  
+ >
+ >⇡ Blue gradients from main swatches ⇡  
  
 ***
 ### Color Reference
