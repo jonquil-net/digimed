@@ -117,13 +117,13 @@
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Floral White | ![#fffaf0](https://encycolorpedia.com/fffaf0.svg)#fffaf0 |
-| (Nearly) Orchid | ![#ca7ac2](https://encycolorpedia.com/ca7ac2.svg) #ca7ac2 |
-| Bright Ube| ![#d19fe8](https://encycolorpedia.com/d19fe8.svg) #d19fe8 |
-| Blue Violet  | ![#7366bd](https://encycolorpedia.com/7366bd.svg) #7366bd |
-| Queen Blue | ![#475F97](https://encycolorpedia.com/436b95.svg)#475F97 |
-| Silver Lake Blue | ![#5d89ba](https://encycolorpedia.com/5d89ba.svg) #5d89ba |
-| Spiro Disco Ball| ![#0fc0fc](https://encycolorpedia.com/0fc0fc.svg) #0fc0fc|
-| Jordy Blue | ![#8ab9f1](https://encycolorpedia.com/8ab9f1.svg) #8ab9f1 |
-| Water| ![#00d1a0](https://encycolorpedia.com/d4f1f9.svg) #d4f1f9 |
+| Floral White | ![#fffaf0](https://encycolorpedia.com/fffaf0.svg)`#fffaf0` |
+| (Nearly) Orchid | ![#ca7ac2](https://encycolorpedia.com/ca7ac2.svg) `#ca7ac2` |
+| Bright Ube| ![#d19fe8](https://encycolorpedia.com/d19fe8.svg) `#d19fe8` |
+| Blue Violet  | ![#7366bd](https://encycolorpedia.com/7366bd.svg) `#7366bd` |
+| Queen Blue | ![#475F97](https://encycolorpedia.com/436b95.svg)`#475F97` |
+| Silver Lake Blue | ![#5d89ba](https://encycolorpedia.com/5d89ba.svg) `#5d89ba` |
+| Spiro Disco Ball| ![#0fc0fc](https://encycolorpedia.com/0fc0fc.svg) `#0fc0fc`|
+| Jordy Blue | ![#8ab9f1](https://encycolorpedia.com/8ab9f1.svg) `#8ab9f1` |
+| Water| ![#00d1a0](https://encycolorpedia.com/d4f1f9.svg) `#d4f1f9` |
 
