@@ -94,17 +94,17 @@
  We were asked to use a harmonious colour pallete
  so I decided upon mine by colour-picking from
  images of '00s toys, tech, advertisements etc. The colours used are a cool-toned pallete with splashes of magenta on a airy cream background. 
- \
+>
  ---
 
 
 ## **3. Colours**
 ![](https://static.wixstatic.com/media/df862d_a925fb558c304538b7d9b10ee5a4933b~mv2.png)
   ⇡ First draft cool *accented analogous* pallete
-\\![blue-magenta pallete](https://64.media.tumblr.com/e2ecf091b50b3aa8d425e6dd80226676/a19699669822fba3-be/s400x600/1982b96d9f51daaa66d54c5da120344143de27b4.pnj)
+>>![blue-magenta pallete](https://64.media.tumblr.com/e2ecf091b50b3aa8d425e6dd80226676/a19699669822fba3-be/s400x600/1982b96d9f51daaa66d54c5da120344143de27b4.pnj)
  ⇡ Expanded colour pallete from tints, ⇡  
  ⇡ tones, and shades of the base colours. ⇡
-\\![](https://64.media.tumblr.com/127f48b3963f325943a6bd75d90ab7a6/a19699669822fba3-3a/s400x600/5e99ab248b08fc233c6993f40da7babce5353a43.pnj)
+>>![](https://64.media.tumblr.com/127f48b3963f325943a6bd75d90ab7a6/a19699669822fba3-3a/s400x600/5e99ab248b08fc233c6993f40da7babce5353a43.pnj)
  ⇡ Blue gradients from main swatches ⇡  
  
 
