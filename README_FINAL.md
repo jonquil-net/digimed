@@ -8,16 +8,6 @@
 
 
 ### (∩^.^)⊃━✧ ∽✿♪ Contents
- - [x] Assignment Outline
-
- - [x] Description/ Process 
- - [x] Instructions
- - [x] Colour  
- - [ ] Sound  
- - [ ] References & Attributions
- - [ ] Additional Comments 
- - [ ] Author
-
 [TOC]
 
 
